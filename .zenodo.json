@@ -1,0 +1,31 @@
+
+{
+    "title": "ICESpark-EarthCube-2022-Annual-Meeting",
+    "creators": [
+        {
+            "name": "Jia Yu",
+            "affiliation": "Washington State University",
+            "email": "jia.yu1@wsu.edu"
+        },
+        {
+            "name": "Yiqun Xie",
+            "affiliation": "University of Maryland",
+            "email": "xie@umd.edu"
+        },
+        {
+            "name": "Kyle Duncan",
+            "affiliation": "University of Maryland",
+            "email": "kduncan@umd.edu"
+        },
+        {
+            "name": "Sinead Louise Farrell",
+            "affiliation": "University of Maryland",
+            "email": "sineadf@umd.edu"
+        }
+    ],
+    "keywords": [
+        "arctic observation",
+        "big data",
+        "cluster computing"
+    ]
+}
