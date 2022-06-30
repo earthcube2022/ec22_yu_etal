@@ -4,23 +4,19 @@
     "creators": [
         {
             "name": "Jia Yu",
-            "affiliation": "Washington State University",
-            "email": "jia.yu1@wsu.edu"
+            "affiliation": "Washington State University" 
         },
         {
             "name": "Yiqun Xie",
-            "affiliation": "University of Maryland",
-            "email": "xie@umd.edu"
+            "affiliation": "University of Maryland" 
         },
         {
             "name": "Kyle Duncan",
-            "affiliation": "University of Maryland",
-            "email": "kduncan@umd.edu"
+            "affiliation": "University of Maryland" 
         },
         {
             "name": "Sinead Louise Farrell",
-            "affiliation": "University of Maryland",
-            "email": "sineadf@umd.edu"
+            "affiliation": "University of Maryland" 
         }
     ],
     "keywords": [
